@@ -21,7 +21,10 @@ being fixed after Monday's banking disruption.
 
 The background photo was made with a free image generator. Every word on
 the image was drawn in code, so the date and the headlines are sharp and
-exactly as written — no AI-generated text.
+exactly as written — no AI-generated text. The seven stories are the
+Kerch Bridge strike, the Hormuz tanker mines, Trump in Manila, Nvidia's
+record quarter, the Vulcan failure, Japan's jet scramble, and the Chase
+bug fix — each one first reported on Tuesday, 17 November 2026.
 
 ## How it works
 

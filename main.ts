@@ -1,11 +1,8 @@
 // news-image-20261117 entry (Node 22, standard library only).
 //
-// The image is the entry.png beside this file: a one-page summary of the
-// world news of Tuesday, 17 November 2026. Its background photo was made
-// with a free image generator and every word on it was drawn in code, so
-// the date and the headlines stay sharp and readable. This program writes
-// that exact image to the grader's output directory, which means both
-// runs of the program produce byte-identical files.
+// The image is fixed, so the program is a plain copy: no clock, no
+// randomness, no network — the same input bytes always give the same
+// output bytes, whichever sandbox runs it.
 //
 // Outside the grader, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
